@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(22, 22, 22);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    color:aliceblue
+}
+
+.wrapper1{
+    text-align: center;
+    max-width: 800px;
+    padding: 0;
+    margin: 0 auto;
+    background-color: rgb(22, 22, 22);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    color:aliceblue
+}
+
+.center text{
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.narration{
+    font-style:italic; 
+}
+
+.choose{
+    padding-bottom: 30px;
+}
+
+li a{
+    color: aqua;
+    font-weight: bold;
+}
